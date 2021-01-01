@@ -1,0 +1,1393 @@
+fileFormatVersion: 2
+guid: c073de2acfdfb0f4cbd1740eb16a82d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1168978930770307504
+    second: tileset_florest_0
+  - first:
+      213: 7736893934128580290
+    second: tileset_florest_1
+  - first:
+      213: 6592408483168320794
+    second: tileset_florest_2
+  - first:
+      213: 6432212818578575174
+    second: tileset_florest_3
+  - first:
+      213: -6570510481770410750
+    second: tileset_florest_4
+  - first:
+      213: 157955205123172382
+    second: tileset_florest_5
+  - first:
+      213: -6978251557543677030
+    second: tileset_florest_6
+  - first:
+      213: -8829957451587432099
+    second: tileset_florest_7
+  - first:
+      213: 1725761483095584025
+    second: tileset_florest_8
+  - first:
+      213: -7041163707767663043
+    second: tileset_florest_9
+  - first:
+      213: -4633472615965579938
+    second: tileset_florest_10
+  - first:
+      213: 2048694335623372253
+    second: tileset_florest_11
+  - first:
+      213: 971771396085381975
+    second: tileset_florest_12
+  - first:
+      213: 3246776666994530436
+    second: tileset_florest_13
+  - first:
+      213: 6023461122140219133
+    second: tileset_florest_14
+  - first:
+      213: -2241413817264163945
+    second: tileset_florest_15
+  - first:
+      213: -6492417534969287982
+    second: tileset_florest_16
+  - first:
+      213: -6938245171895650010
+    second: tileset_florest_17
+  - first:
+      213: 4413579536914833834
+    second: tileset_florest_18
+  - first:
+      213: -3887723480515453398
+    second: tileset_florest_19
+  - first:
+      213: 3880603486794540811
+    second: tileset_florest_20
+  - first:
+      213: 1466303916900256666
+    second: tileset_florest_21
+  - first:
+      213: 7877196793619738721
+    second: tileset_florest_22
+  - first:
+      213: 3766601887232162182
+    second: tileset_florest_23
+  - first:
+      213: 9150579169884673026
+    second: tileset_florest_24
+  - first:
+      213: 8778469633319993435
+    second: tileset_florest_25
+  - first:
+      213: -498792474948076193
+    second: tileset_florest_26
+  - first:
+      213: 5767438164508600756
+    second: tileset_florest_27
+  - first:
+      213: 7572295516979341201
+    second: tileset_florest_28
+  - first:
+      213: 4198811819870387636
+    second: tileset_florest_29
+  - first:
+      213: -8787595318148498751
+    second: tileset_florest_30
+  - first:
+      213: -4828970775868561051
+    second: tileset_florest_31
+  - first:
+      213: -6259308115008485975
+    second: tileset_florest_32
+  - first:
+      213: -4946230326622937597
+    second: tileset_florest_33
+  - first:
+      213: 4047021989245162763
+    second: tileset_florest_34
+  - first:
+      213: 3612103787595425646
+    second: tileset_florest_35
+  - first:
+      213: 888743611943813316
+    second: tileset_florest_36
+  - first:
+      213: -6991818890746408162
+    second: tileset_florest_37
+  - first:
+      213: 3203154099247565224
+    second: tileset_florest_38
+  - first:
+      213: 3592963047797632665
+    second: tileset_florest_39
+  - first:
+      213: -1165880278771760030
+    second: tileset_florest_40
+  - first:
+      213: 4390891748596461137
+    second: tileset_florest_41
+  - first:
+      213: 1805767721316686164
+    second: tileset_florest_42
+  - first:
+      213: -436659663647370962
+    second: tileset_florest_43
+  - first:
+      213: 5802926358211459951
+    second: tileset_florest_44
+  - first:
+      213: -3971900357054233922
+    second: tileset_florest_45
+  - first:
+      213: -8138079674618663086
+    second: tileset_florest_46
+  - first:
+      213: 1649452399693083844
+    second: tileset_florest_47
+  - first:
+      213: 3529905928692261486
+    second: tileset_florest_48
+  - first:
+      213: 7033255685959000410
+    second: tileset_florest_49
+  - first:
+      213: -233314117000333689
+    second: tileset_florest_50
+  - first:
+      213: -1918943263981102662
+    second: tileset_florest_51
+  - first:
+      213: -893964538362102836
+    second: tileset_florest_52
+  - first:
+      213: 7801549192526480658
+    second: tileset_florest_53
+  - first:
+      213: -6522236938669724630
+    second: tileset_florest_54
+  - first:
+      213: -3806713656174555081
+    second: tileset_florest_55
+  - first:
+      213: -5782855025156970416
+    second: tileset_florest_56
+  - first:
+      213: 7666112181938321535
+    second: tileset_florest_57
+  - first:
+      213: -393084740948763576
+    second: tileset_florest_58
+  - first:
+      213: 4308870575295682473
+    second: tileset_florest_59
+  - first:
+      213: 3625849304989765158
+    second: tileset_florest_60
+  - first:
+      213: -5735682114916458348
+    second: tileset_florest_61
+  - first:
+      213: -5019931349660895060
+    second: tileset_florest_62
+  - first:
+      213: -5212543410409623880
+    second: tileset_florest_63
+  - first:
+      213: 2338285874743625041
+    second: tileset_florest_64
+  - first:
+      213: 3986614915033244459
+    second: tileset_florest_65
+  - first:
+      213: -8071343223284276858
+    second: tileset_florest_66
+  - first:
+      213: -2677966516994225259
+    second: tileset_florest_67
+  - first:
+      213: -6164997155005239239
+    second: tileset_florest_68
+  - first:
+      213: 8497835011706072260
+    second: tileset_florest_69
+  - first:
+      213: -3293789064169458074
+    second: tileset_florest_70
+  - first:
+      213: -4894818912244079909
+    second: tileset_florest_71
+  - first:
+      213: -6831054566336492907
+    second: tileset_florest_72
+  - first:
+      213: 6011198527194198739
+    second: tileset_florest_73
+  - first:
+      213: -4569799721429955815
+    second: tileset_florest_74
+  - first:
+      213: 5761961990834558147
+    second: tileset_florest_75
+  - first:
+      213: -2427328704318833307
+    second: tileset_florest_76
+  - first:
+      213: 7466160107693850863
+    second: tileset_florest_0
+  - first:
+      213: -8463467079015424614
+    second: tileset_florest_1
+  - first:
+      213: -5073940918548149687
+    second: tileset_florest_2
+  - first:
+      213: -2130999085373294792
+    second: tileset_florest_3
+  - first:
+      213: 7264445987396010880
+    second: tileset_florest_4
+  - first:
+      213: -2945367510373220469
+    second: tileset_florest_5
+  - first:
+      213: 8478508830353448265
+    second: tileset_florest_6
+  - first:
+      213: 1192956322289218573
+    second: tileset_florest_7
+  - first:
+      213: 3344363290836826059
+    second: tileset_florest_8
+  - first:
+      213: 5302585689844856473
+    second: tileset_florest_9
+  - first:
+      213: 7373688300350617208
+    second: tileset_florest_10
+  - first:
+      213: -3931743310162383032
+    second: tileset_florest_11
+  - first:
+      213: -8630912930742235004
+    second: tileset_florest_12
+  - first:
+      213: -5966560461205044099
+    second: tileset_florest_13
+  - first:
+      213: -2208949618541360758
+    second: tileset_florest_14
+  - first:
+      213: -7989727025100921963
+    second: tileset_florest_15
+  - first:
+      213: 3061001637753846446
+    second: tileset_florest_16
+  - first:
+      213: 4681940288798586196
+    second: tileset_florest_17
+  - first:
+      213: 8572520280882450438
+    second: tileset_florest_18
+  - first:
+      213: -7389135080789152587
+    second: tileset_florest_19
+  - first:
+      213: 3790047733804807548
+    second: tileset_florest_20
+  - first:
+      213: 1630188103202844039
+    second: tileset_florest_21
+  - first:
+      213: 5846787365055234224
+    second: tileset_florest_22
+  - first:
+      213: -4362431221845461218
+    second: tileset_florest_23
+  - first:
+      213: -94177500925831954
+    second: tileset_florest_24
+  - first:
+      213: 2311840143779787912
+    second: tileset_florest_25
+  - first:
+      213: 8185100088649488231
+    second: tileset_florest_26
+  - first:
+      213: 2332619554088134512
+    second: tileset_florest_27
+  - first:
+      213: 3235157018931684536
+    second: tileset_florest_28
+  - first:
+      213: 8563267670235485550
+    second: tileset_florest_29
+  - first:
+      213: -333643047037395857
+    second: tileset_florest_30
+  - first:
+      213: 4554264254013978503
+    second: tileset_florest_31
+  - first:
+      213: -175737652755350969
+    second: tileset_florest_32
+  - first:
+      213: 6894833147559592862
+    second: tileset_florest_33
+  - first:
+      213: -4298645465409653180
+    second: tileset_florest_34
+  - first:
+      213: -6240933178842728735
+    second: tileset_florest_35
+  - first:
+      213: 5328997775119247591
+    second: tileset_florest_36
+  - first:
+      213: -8991729087008592872
+    second: tileset_florest_37
+  - first:
+      213: 2300094697048325854
+    second: tileset_florest_38
+  - first:
+      213: 8251696667963589055
+    second: tileset_florest_39
+  - first:
+      213: -5860581926163373726
+    second: tileset_florest_40
+  - first:
+      213: 1918602950596692799
+    second: tileset_florest_41
+  - first:
+      213: -4648293811663202527
+    second: tileset_florest_42
+  - first:
+      213: 772471105248005164
+    second: tileset_florest_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_florest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c84f7f012d9760800000000000000
+      internalID: 7466160107693850863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d92137889bb8a80800000000000000
+      internalID: -8463467079015424614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a4e921e9db599b0800000000000000
+      internalID: -5073940918548149687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83774a35f9b2d62e0800000000000000
+      internalID: -2130999085373294792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08340c8032f70d460800000000000000
+      internalID: 7264445987396010880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3a33cad3ff17d0800000000000000
+      internalID: -2945367510373220469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dda323cd6b9a570800000000000000
+      internalID: 8478508830353448265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04fa9e547b3e8010800000000000000
+      internalID: 1192956322289218573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc77f2e91b0996e20800000000000000
+      internalID: 3344363290836826059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996b5423791969940800000000000000
+      internalID: 5302585689844856473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763ad2117a945660800000000000000
+      internalID: 7373688300350617208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa0c96a44af69c0800000000000000
+      internalID: -3931743310162383032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48098c30b66d83880800000000000000
+      internalID: -8630912930742235004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d748bfa6fd4823da0800000000000000
+      internalID: -5966560461205044099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898b14860c3851e0800000000000000
+      internalID: -2208949618541360758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59365802a99ce1190800000000000000
+      internalID: -7989727025100921963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaf43b85ccda7a20800000000000000
+      internalID: 3061001637753846446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455fd6df2e799f040800000000000000
+      internalID: 4681940288798586196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60094dbb6c5b7f670800000000000000
+      internalID: 8572520280882450438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc6f281bc4847990800000000000000
+      internalID: -7389135080789152587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b5375554f89430800000000000000
+      internalID: 3790047733804807548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d297851779f9610800000000000000
+      internalID: 1630188103202844039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00c538126f32150800000000000000
+      internalID: 5846787365055234224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f3d8bae78573c0800000000000000
+      internalID: -4362431221845461218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45b77df0a61bef0800000000000000
+      internalID: -94177500925831954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8847b73bc5e451020800000000000000
+      internalID: 2311840143779787912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76798f20a21579170800000000000000
+      internalID: 8185100088649488231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ad8d20212f5020800000000000000
+      internalID: 2332619554088134512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e80a0b2695ec20800000000000000
+      internalID: 3235157018931684536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6519f07396d6d670800000000000000
+      internalID: 8563267670235485550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9e8b9a69ae5bf0800000000000000
+      internalID: -333643047037395857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78733c1a53ff33f30800000000000000
+      internalID: 4554264254013978503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a3bd13987af8df0800000000000000
+      internalID: -175737652755350969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c0e1a73e5faf50800000000000000
+      internalID: 6894833147559592862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f9e279b42854c0800000000000000
+      internalID: -4298645465409653180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63128f650c369a0800000000000000
+      internalID: -6240933178842728735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e864d20e3764f940800000000000000
+      internalID: 5328997775119247591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c2e4c1906f63380800000000000000
+      internalID: -8991729087008592872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3357c0f39bef10800000000000000
+      internalID: 2300094697048325854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18e30766ae38270800000000000000
+      internalID: 8251696667963589055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26125f1f9c70baea0800000000000000
+      internalID: -5860581926163373726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b0557e73f30aa10800000000000000
+      internalID: 1918602950596692799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271b20f761fd7fb0800000000000000
+      internalID: -4648293811663202527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_florest_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8f83a06e58ba00800000000000000
+      internalID: 772471105248005164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

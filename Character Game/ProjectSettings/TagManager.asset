@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanBePickedUp
+  - Gate
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocking
+  - Ground
+  - Consumables
+  - Enemies
+  - iFrame
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 615706239
+    locked: 0
+  - name: Objects
+    uniqueID: 47795661
+    locked: 0
+  - name: Characters
+    uniqueID: 3543787829
+    locked: 0
+  - name: Scenery
+    uniqueID: 1177087
+    locked: 0

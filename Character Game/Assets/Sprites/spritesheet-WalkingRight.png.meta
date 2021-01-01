@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 828420e04bf25094a99707cb97a351ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8082779337539322258
+    second: spritesheet-WalkingRight_0
+  - first:
+      213: 8615554837765587094
+    second: spritesheet-WalkingRight_1
+  - first:
+      213: -5022959640641645425
+    second: spritesheet-WalkingRight_2
+  - first:
+      213: -1390951512386990292
+    second: spritesheet-WalkingRight_3
+  - first:
+      213: 2119460470949969473
+    second: spritesheet-WalkingRight_4
+  - first:
+      213: 540935003382428426
+    second: spritesheet-WalkingRight_5
+  - first:
+      213: 6690649967389928426
+    second: spritesheet-WalkingRight_6
+  - first:
+      213: 3941816793595132852
+    second: spritesheet-WalkingRight_7
+  - first:
+      213: 4373528919301220298
+    second: spritesheet-WalkingRight_8
+  - first:
+      213: -2391620040058483511
+    second: spritesheet-WalkingRight_9
+  - first:
+      213: -6819312195998946286
+    second: spritesheet-WalkingRight_10
+  - first:
+      213: -2067339674176051668
+    second: spritesheet-WalkingRight_11
+  - first:
+      213: 185045291608402360
+    second: spritesheet-WalkingRight_12
+  - first:
+      213: 676381630042487483
+    second: spritesheet-WalkingRight_13
+  - first:
+      213: 3175837977891108050
+    second: spritesheet-WalkingRight_14
+  - first:
+      213: -1785127261135008570
+    second: spritesheet-WalkingRight_15
+  - first:
+      213: 7240121368176128121
+    second: spritesheet-WalkingRight_16
+  - first:
+      213: -6777511354348967615
+    second: spritesheet-WalkingRight_17
+  - first:
+      213: 7919053173783283564
+    second: spritesheet-WalkingRight_18
+  - first:
+      213: -2778503983187988878
+    second: spritesheet-WalkingRight_19
+  - first:
+      213: -7723198144447543696
+    second: spritesheet-WalkingRight_20
+  - first:
+      213: -7415752659887596519
+    second: spritesheet-WalkingRight_21
+  - first:
+      213: -3617653668228136779
+    second: spritesheet-WalkingRight_22
+  - first:
+      213: 5211233735416808332
+    second: spritesheet-WalkingRight_23
+  - first:
+      213: 1720583475129435216
+    second: spritesheet-WalkingRight_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 3100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12534
+        width: 2212
+        height: 2953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29106ebabfccb2070800000000000000
+      internalID: 8082779337539322258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_1
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 12511
+        width: 2196
+        height: 2976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908aef4a79909770800000000000000
+      internalID: 8615554837765587094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_2
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 12488
+        width: 2182
+        height: 2992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845e62d1dcda4ab0800000000000000
+      internalID: -5022959640641645425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_3
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 12466
+        width: 2166
+        height: 3014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f816418f852bce0800000000000000
+      internalID: -1390951512386990292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_4
+      rect:
+        serializedVersion: 2
+        x: 8818
+        y: 12450
+        width: 2136
+        height: 3030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7476a116d96d10800000000000000
+      internalID: 2119460470949969473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9338
+        width: 2106
+        height: 3037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033f230589c18700800000000000000
+      internalID: 540935003382428426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_6
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 9338
+        width: 2075
+        height: 3037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb61ce52b6f9dc50800000000000000
+      internalID: 6690649967389928426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_7
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 9323
+        width: 2046
+        height: 3052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb38e73d7524b630800000000000000
+      internalID: 3941816793595132852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_8
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 9315
+        width: 2007
+        height: 3060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7e8d15165e1bc30800000000000000
+      internalID: 4373528919301220298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_9
+      rect:
+        serializedVersion: 2
+        x: 8833
+        y: 9315
+        width: 1977
+        height: 3060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cccb92be324fced0800000000000000
+      internalID: -2391620040058483511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6218
+        width: 1939
+        height: 3052
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6ef020bfec51a0800000000000000
+      internalID: -6819312195998946286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_11
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 6233
+        width: 1894
+        height: 3037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c262aa205855f43e0800000000000000
+      internalID: -2067339674176051668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_12
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 6248
+        width: 1856
+        height: 3022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b96da956b9619200800000000000000
+      internalID: 185045291608402360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_13
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 6271
+        width: 1879
+        height: 2999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba3847428df26900800000000000000
+      internalID: 676381630042487483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_14
+      rect:
+        serializedVersion: 2
+        x: 8841
+        y: 6240
+        width: 1916
+        height: 3030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f46880d7d21c20800000000000000
+      internalID: 3175837977891108050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3128
+        width: 1954
+        height: 3044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc8e29c634f937e0800000000000000
+      internalID: -1785127261135008570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_16
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 3113
+        width: 1985
+        height: 3059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707ad846041a7460800000000000000
+      internalID: 7240121368176128121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_17
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 3113
+        width: 2023
+        height: 3059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496adef45171f1a0800000000000000
+      internalID: -6777511354348967615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_18
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 3113
+        width: 2045
+        height: 3059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6748c497e026ed60800000000000000
+      internalID: 7919053173783283564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_19
+      rect:
+        serializedVersion: 2
+        x: 8826
+        y: 3128
+        width: 2083
+        height: 3044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e62133955c079d0800000000000000
+      internalID: -2778503983187988878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 2121
+        height: 3045
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0768f36f430b1d490800000000000000
+      internalID: -7723198144447543696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_21
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 38
+        width: 2144
+        height: 3037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdd350f34f51990800000000000000
+      internalID: -7415752659887596519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_22
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 53
+        width: 2167
+        height: 3022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08fd8e7238bcdc0800000000000000
+      internalID: -3617653668228136779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_23
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 76
+        width: 2181
+        height: 2999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830d09d875025840800000000000000
+      internalID: 5211233735416808332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-WalkingRight_24
+      rect:
+        serializedVersion: 2
+        x: 8810
+        y: 98
+        width: 2205
+        height: 2977
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544f79fd8db0e710800000000000000
+      internalID: 1720583475129435216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
